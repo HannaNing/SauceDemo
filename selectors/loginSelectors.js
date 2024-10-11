@@ -1,0 +1,5 @@
+export const usernameSelector = '#user-name'
+export const passwordSelector = '#password'
+export const loginBtn = '#login-button'
+export const errorMessage = 'Epic sadface: Username and password do not match any user in this service'
+export const requireErrorMesssage = 'Epic sadface: Username is required'
